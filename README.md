@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/varun-kumar0420/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varun-kumar0420/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/varun-kumar0420/LEETCODE/tree/master/0012-integer-to-roman) |
+## Matrix
+|  |
+| ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/varun-kumar0420/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
