@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/varun-kumar0420/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/varun-kumar0420/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varun-kumar0420/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/varun-kumar0420/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/varun-kumar0420/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/varun-kumar0420/LEETCODE/tree/master/0012-integer-to-roman) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varun-kumar0420/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/varun-kumar0420/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varun-kumar0420/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/varun-kumar0420/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
