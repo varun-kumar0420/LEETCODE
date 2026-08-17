@@ -10,6 +10,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varun-kumar0420/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/varun-kumar0420/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [1108-defanging-an-ip-address](https://github.com/varun-kumar0420/LEETCODE/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/varun-kumar0420/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/varun-kumar0420/LEETCODE/tree/master/1678-goal-parser-interpretation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/varun-kumar0420/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
@@ -43,6 +44,7 @@
 ## Array
 |  |
 | ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/varun-kumar0420/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/varun-kumar0420/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varun-kumar0420/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/varun-kumar0420/LEETCODE/tree/master/3731-find-missing-elements) |
