@@ -10,6 +10,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varun-kumar0420/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/varun-kumar0420/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/varun-kumar0420/LEETCODE/tree/master/0242-valid-anagram) |
+| [0520-detect-capital](https://github.com/varun-kumar0420/LEETCODE/tree/master/0520-detect-capital) |
 | [1108-defanging-an-ip-address](https://github.com/varun-kumar0420/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/varun-kumar0420/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/varun-kumar0420/LEETCODE/tree/master/1678-goal-parser-interpretation) |
