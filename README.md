@@ -30,6 +30,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/varun-kumar0420/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varun-kumar0420/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/varun-kumar0420/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -53,6 +54,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/varun-kumar0420/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0977-squares-of-a-sorted-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/varun-kumar0420/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/varun-kumar0420/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -94,6 +96,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/varun-kumar0420/LEETCODE/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/varun-kumar0420/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2864-maximum-odd-binary-number](https://github.com/varun-kumar0420/LEETCODE/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
