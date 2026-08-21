@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/varun-kumar0420/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0485-max-consecutive-ones](https://github.com/varun-kumar0420/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/varun-kumar0420/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/varun-kumar0420/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
