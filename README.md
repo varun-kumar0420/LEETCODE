@@ -15,6 +15,7 @@
 | [1108-defanging-an-ip-address](https://github.com/varun-kumar0420/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/varun-kumar0420/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/varun-kumar0420/LEETCODE/tree/master/1678-goal-parser-interpretation) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/varun-kumar0420/LEETCODE/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1903-largest-odd-number-in-string](https://github.com/varun-kumar0420/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2864-maximum-odd-binary-number](https://github.com/varun-kumar0420/LEETCODE/tree/master/2864-maximum-odd-binary-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/varun-kumar0420/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -32,6 +33,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varun-kumar0420/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/varun-kumar0420/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/varun-kumar0420/LEETCODE/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## String Matching
 |  |
 | ------- |
