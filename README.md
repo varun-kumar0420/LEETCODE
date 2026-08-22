@@ -90,6 +90,7 @@
 | [0168-excel-sheet-column-title](https://github.com/varun-kumar0420/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [1903-largest-odd-number-in-string](https://github.com/varun-kumar0420/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2864-maximum-odd-binary-number](https://github.com/varun-kumar0420/LEETCODE/tree/master/2864-maximum-odd-binary-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/varun-kumar0420/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
 | ------- |
