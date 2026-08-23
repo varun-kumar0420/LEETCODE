@@ -17,6 +17,7 @@
 | [1678-goal-parser-interpretation](https://github.com/varun-kumar0420/LEETCODE/tree/master/1678-goal-parser-interpretation) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/varun-kumar0420/LEETCODE/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1903-largest-odd-number-in-string](https://github.com/varun-kumar0420/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/varun-kumar0420/LEETCODE/tree/master/1927-sum-game) |
 | [2864-maximum-odd-binary-number](https://github.com/varun-kumar0420/LEETCODE/tree/master/2864-maximum-odd-binary-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/varun-kumar0420/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
@@ -89,6 +90,7 @@
 | [0012-integer-to-roman](https://github.com/varun-kumar0420/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/varun-kumar0420/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [1903-largest-odd-number-in-string](https://github.com/varun-kumar0420/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/varun-kumar0420/LEETCODE/tree/master/1927-sum-game) |
 | [2864-maximum-odd-binary-number](https://github.com/varun-kumar0420/LEETCODE/tree/master/2864-maximum-odd-binary-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/varun-kumar0420/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
@@ -100,9 +102,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/varun-kumar0420/LEETCODE/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/varun-kumar0420/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/varun-kumar0420/LEETCODE/tree/master/1927-sum-game) |
 | [2864-maximum-odd-binary-number](https://github.com/varun-kumar0420/LEETCODE/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/varun-kumar0420/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/varun-kumar0420/LEETCODE/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
