@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/varun-kumar0420/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/varun-kumar0420/LEETCODE/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/varun-kumar0420/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/varun-kumar0420/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/varun-kumar0420/LEETCODE/tree/master/1927-sum-game) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/varun-kumar0420/LEETCODE/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
