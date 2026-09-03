@@ -34,6 +34,7 @@
 | [0011-container-with-most-water](https://github.com/varun-kumar0420/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varun-kumar0420/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/varun-kumar0420/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/varun-kumar0420/LEETCODE/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## String Matching
@@ -58,6 +59,7 @@
 | [0011-container-with-most-water](https://github.com/varun-kumar0420/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/varun-kumar0420/LEETCODE/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/varun-kumar0420/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/varun-kumar0420/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -92,6 +94,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/varun-kumar0420/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/varun-kumar0420/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/varun-kumar0420/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/varun-kumar0420/LEETCODE/tree/master/1927-sum-game) |
 | [2864-maximum-odd-binary-number](https://github.com/varun-kumar0420/LEETCODE/tree/master/2864-maximum-odd-binary-number) |
