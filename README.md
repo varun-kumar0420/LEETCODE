@@ -59,6 +59,7 @@
 | [0011-container-with-most-water](https://github.com/varun-kumar0420/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/varun-kumar0420/LEETCODE/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/varun-kumar0420/LEETCODE/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/varun-kumar0420/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -124,4 +125,5 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/varun-kumar0420/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/varun-kumar0420/LEETCODE/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/varun-kumar0420/LEETCODE/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
