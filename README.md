@@ -68,6 +68,7 @@
 | [1920-build-array-from-permutation](https://github.com/varun-kumar0420/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varun-kumar0420/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/varun-kumar0420/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varun-kumar0420/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/varun-kumar0420/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/varun-kumar0420/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/varun-kumar0420/LEETCODE/tree/master/1927-sum-game) |
 | [2864-maximum-odd-binary-number](https://github.com/varun-kumar0420/LEETCODE/tree/master/2864-maximum-odd-binary-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varun-kumar0420/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/varun-kumar0420/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
