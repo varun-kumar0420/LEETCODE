@@ -13,6 +13,7 @@
 | [0242-valid-anagram](https://github.com/varun-kumar0420/LEETCODE/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/varun-kumar0420/LEETCODE/tree/master/0520-detect-capital) |
 | [1108-defanging-an-ip-address](https://github.com/varun-kumar0420/LEETCODE/tree/master/1108-defanging-an-ip-address) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varun-kumar0420/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/varun-kumar0420/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/varun-kumar0420/LEETCODE/tree/master/1678-goal-parser-interpretation) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/varun-kumar0420/LEETCODE/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -24,10 +25,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/varun-kumar0420/LEETCODE/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varun-kumar0420/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/varun-kumar0420/LEETCODE/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varun-kumar0420/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
